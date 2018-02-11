@@ -1,0 +1,25 @@
+{
+  "name": "gpmd-songlist",
+  "version": "1.0.0",
+  "description": "A little application that allows others to see whats next",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "ws": "^4.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perrin-S/GPMD-songlist.git"
+  },
+  "author": "Perrin S",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Perrin-S/GPMD-songlist/issues"
+  },
+  "homepage": "https://github.com/Perrin-S/GPMD-songlist#readme"
+}
